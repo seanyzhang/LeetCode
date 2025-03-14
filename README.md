@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/seanyzhang/LeetCode/tree/master/0015-3sum) |
 | [1206-corporate-flight-bookings](https://github.com/seanyzhang/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/seanyzhang/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/seanyzhang/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/seanyzhang/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
@@ -66,9 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/seanyzhang/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/seanyzhang/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/seanyzhang/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/seanyzhang/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/seanyzhang/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
