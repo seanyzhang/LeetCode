@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/seanyzhang/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/seanyzhang/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0541-reverse-string-ii](https://github.com/seanyzhang/LeetCode/tree/master/0541-reverse-string-ii) |
+| [3474-better-compression-of-string](https://github.com/seanyzhang/LeetCode/tree/master/3474-better-compression-of-string) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/seanyzhang/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/seanyzhang/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/seanyzhang/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3474-better-compression-of-string](https://github.com/seanyzhang/LeetCode/tree/master/3474-better-compression-of-string) |
 ## Trie
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/seanyzhang/LeetCode/tree/master/0015-3sum) |
+| [3474-better-compression-of-string](https://github.com/seanyzhang/LeetCode/tree/master/3474-better-compression-of-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +80,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/seanyzhang/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3474-better-compression-of-string](https://github.com/seanyzhang/LeetCode/tree/master/3474-better-compression-of-string) |
 <!---LeetCode Topics End-->
