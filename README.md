@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/seanyzhang/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/seanyzhang/LeetCode/tree/master/0015-3sum) |
 | [1206-corporate-flight-bookings](https://github.com/seanyzhang/LeetCode/tree/master/1206-corporate-flight-bookings) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/seanyzhang/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [3643-zero-array-transformation-ii](https://github.com/seanyzhang/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/seanyzhang/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [3643-zero-array-transformation-ii](https://github.com/seanyzhang/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |
