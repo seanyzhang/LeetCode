@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/seanyzhang/LeetCode/tree/master/0054-spiral-matrix) |
+| [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/seanyzhang/LeetCode/tree/master/0054-spiral-matrix) |
+| [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -30,21 +32,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seanyzhang/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seanyzhang/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Graph
 |  |
 | ------- |
+| [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seanyzhang/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seanyzhang/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
+| [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seanyzhang/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
