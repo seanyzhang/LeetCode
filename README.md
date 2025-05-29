@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/seanyzhang/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/seanyzhang/LeetCode/tree/master/0037-sudoku-solver) |
 ## Array
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/seanyzhang/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/seanyzhang/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/seanyzhang/LeetCode/tree/master/0054-spiral-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/seanyzhang/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/seanyzhang/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/seanyzhang/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/seanyzhang/LeetCode/tree/master/0054-spiral-matrix) |
 | [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
 ## Simulation
@@ -66,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/seanyzhang/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/seanyzhang/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
