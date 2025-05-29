@@ -11,20 +11,21 @@ class Solution(object):
         :type n: int
         :rtype: Optional[ListNode]
         """
-        trav = head
-        while trav:
-            for i in range(m-1):
-                if not trav: return head
-                trav = trav.next
+        slow, fast = head, head
 
-            if not trav: return head
+        while fast:
+            M = m
+            N = n
+            while fast and M > 0:
+                slow = fast
+                fast = fast.next
+                M -= 1
 
-            dummy = trav.next
-            for i in range(n):
-                if not dummy: break
-                dummy = dummy.next
+            while fast and N > 0:
+                fast = fast.next
+                N -= 1
             
-            trav.next = dummy
-            trav = trav.next
+            slow.next = fast
 
         return head
+
