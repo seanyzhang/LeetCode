@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/seanyzhang/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/seanyzhang/LeetCode/tree/master/0054-spiral-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/seanyzhang/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/seanyzhang/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/seanyzhang/LeetCode/tree/master/0054-spiral-matrix) |
 | [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
 ## Simulation
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/seanyzhang/LeetCode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/seanyzhang/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
