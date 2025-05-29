@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seanyzhang/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Linked List
+|  |
+| ------- |
+| [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/seanyzhang/LeetCode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 <!---LeetCode Topics End-->
