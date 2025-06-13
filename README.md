@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/seanyzhang/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/seanyzhang/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
+| [1972-rotating-the-box](https://github.com/seanyzhang/LeetCode/tree/master/1972-rotating-the-box) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/seanyzhang/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Matrix
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/seanyzhang/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/seanyzhang/LeetCode/tree/master/0054-spiral-matrix) |
 | [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
+| [1972-rotating-the-box](https://github.com/seanyzhang/LeetCode/tree/master/1972-rotating-the-box) |
 ## Simulation
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/seanyzhang/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1972-rotating-the-box](https://github.com/seanyzhang/LeetCode/tree/master/1972-rotating-the-box) |
 ## Sorting
 |  |
 | ------- |
