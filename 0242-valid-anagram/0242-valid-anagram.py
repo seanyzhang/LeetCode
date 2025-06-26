@@ -5,11 +5,4 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        
-        sCounter = Counter(s)
-        tCounter = Counter(t)
-
-        if sCounter != tCounter:
-            return False
-        
-        return True
+        return Counter(s) == Counter(t)
