@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/seanyzhang/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/seanyzhang/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/seanyzhang/LeetCode/tree/master/0038-count-and-say) |
 | [0316-remove-duplicate-letters](https://github.com/seanyzhang/LeetCode/tree/master/0316-remove-duplicate-letters) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/seanyzhang/LeetCode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/seanyzhang/LeetCode/tree/master/0316-remove-duplicate-letters) |
 ## Greedy
 |  |
