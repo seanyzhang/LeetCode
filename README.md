@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/seanyzhang/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/seanyzhang/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/seanyzhang/LeetCode/tree/master/0038-count-and-say) |
+| [0242-valid-anagram](https://github.com/seanyzhang/LeetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/seanyzhang/LeetCode/tree/master/0316-remove-duplicate-letters) |
 ## Dynamic Programming
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/seanyzhang/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/seanyzhang/LeetCode/tree/master/0037-sudoku-solver) |
+| [0242-valid-anagram](https://github.com/seanyzhang/LeetCode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/seanyzhang/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/seanyzhang/LeetCode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
