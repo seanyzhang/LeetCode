@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/seanyzhang/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/seanyzhang/LeetCode/tree/master/0134-gas-station) |
 | [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
+| [1325-path-with-maximum-probability](https://github.com/seanyzhang/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1972-rotating-the-box](https://github.com/seanyzhang/LeetCode/tree/master/1972-rotating-the-box) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/seanyzhang/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Matrix
@@ -60,16 +61,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seanyzhang/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/seanyzhang/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seanyzhang/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/seanyzhang/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seanyzhang/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/seanyzhang/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Linked List
 |  |
 | ------- |
