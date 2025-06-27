@@ -5,21 +5,20 @@ class Solution(object):
         :type amount: int
         :rtype: int
         """
-        
-        dp = [[float('inf') for j in range(amount + 1)] for i in range(len(coins) + 1)]
+        coins.sort()
+        dp = [0] * (amount + 1)
+        dp[0] = 0
 
-        for i in range(len(coins) + 1):
-            dp[i][0] = 0
+        for i in range(1,amount + 1):
+            minCoins = float('inf')
+            for coin in coins:
+                diff = i - coin 
+                if diff < 0: 
+                    break
+                minCoins = min(minCoins, 1 + dp[diff])
+            dp[i] = minCoins
 
-        for i in range(1, len(coins) + 1):
-            for j in range(amount + 1):
-                if coins[i - 1] > j:
-                    dp[i][j] = dp[i-1][j]
-                else:
-                    dp[i][j] = min(
-                        dp[i-1][j], 
-                        1 + dp[i][j - coins[i - 1]]
-                        )
-        
-        result = dp[len(coins)][amount]
-        return result if result != float('inf') else -1
+        return dp[amount] if dp[amount] < float('inf') else -1
+                
+
+
