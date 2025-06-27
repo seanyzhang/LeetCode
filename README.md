@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/seanyzhang/LeetCode/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/seanyzhang/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0322-coin-change](https://github.com/seanyzhang/LeetCode/tree/master/0322-coin-change) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seanyzhang/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Backtracking
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/seanyzhang/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/seanyzhang/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/seanyzhang/LeetCode/tree/master/0134-gas-station) |
+| [0322-coin-change](https://github.com/seanyzhang/LeetCode/tree/master/0322-coin-change) |
 | [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/seanyzhang/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1325-path-with-maximum-probability](https://github.com/seanyzhang/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/seanyzhang/LeetCode/tree/master/0322-coin-change) |
 | [0505-the-maze-ii](https://github.com/seanyzhang/LeetCode/tree/master/0505-the-maze-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/seanyzhang/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Graph
