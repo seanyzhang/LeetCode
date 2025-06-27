@@ -10,9 +10,5 @@ class Solution(object):
             key = frozenset(c.items())
             d[key].append(word)
         
-        ans = []
-        for key in d:
-            ans.append(d[key])
-
-        return ans
+        return list(d.values())
            
